@@ -1,0 +1,62 @@
+{
+  "athlete": [
+    {
+      "question": "What's your full name?",
+      "tag": "name"
+    },
+    {
+      "question": "How old are you?",
+      "low": 7,
+      "high": 100,
+      "tag": "age"
+    },
+    {
+      "question": "What's your gender?",
+      "choices": [
+        "Male",
+        "Female"
+      ],
+      "tag": "gender"
+    },
+    {
+      "question": "Which club are you in?",
+      "tag": "club"
+    },
+    {
+      "question": "Which sport do you practice?",
+      "tag": "sport"
+    }
+  ],
+  "coach": [
+    {
+      "question": "What's your full name?",
+      "tag": "name"
+    },
+    {
+      "question": "How old are you?",
+      "low": 40,
+      "high": 120,
+      "tag": "age"
+    },
+    {
+      "question": "What's your gender?",
+      "choices": [
+        "Male",
+        "Female"
+      ],
+      "tag": "gender"
+    },
+    {
+      "question": "How much do you offer your service for?",
+      "low": 1,
+      "high": 1000000,
+      "tag": "price"
+    },
+    {
+      "question": "How many years of experience do you have in life coaching?",
+      "low": 1,
+      "high": 80,
+      "tag": "experience"
+    }
+  ]
+}
